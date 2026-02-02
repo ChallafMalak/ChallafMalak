@@ -21,5 +21,5 @@ Motivated software engineering student passionate about building web application
 
 ## Contact
 📧 malak.challaf1@gmail.com  
-🔗 LinkedIn: linkedin.com/in/malak-challaf-134823327
+ LinkedIn: Malak Challaf
 
